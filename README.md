@@ -10,16 +10,6 @@ An end-to-end IT Audit review evaluating **User Access Management (UAM)** and **
 
 ---
 
-## 👩🏽‍💻 Author & Professional Profile
-
-**Farida Yamah**  
-*Data Analyst → IT Audit & GRC*  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/farida-yamah-97a29123b)
-
-> "Transforming system logs and HR data into defensible audit insights, pinpointing control deficiencies, and supporting risk-informed governance aligned with SOX ITGC and internal control frameworks."
-
----
-
 ## 📌 Executive Summary & Business Problem
 
 In enterprise environments, user access control failures represent one of the leading vectors for unauthorized transactions, data breaches, and regulatory non-compliance under frameworks such as **SOX (Sarbanes-Oxley Act - Section 404)** and **ISO 27001**. 
