@@ -1,0 +1,25 @@
+# Microsoft Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Power BI temporary files
+*.pbix.tmp
+*.pbit.tmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# Editor and IDE directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
